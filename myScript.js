@@ -723,3 +723,4 @@ alert( date.getHours() );
 
 // the hour in UTC+0 time zone (London time without daylight savings)
 alert( date.getUTCHours() );
+alert("added a alert script in my script from home pc");
